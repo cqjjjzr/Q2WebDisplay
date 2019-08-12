@@ -23,8 +23,8 @@ var config = {
     "BLDFIntervalDelay": 3000,
     "BLDFRegex": "【(.+?)】",
 
-    "CJId": "test",
-    "CJUrlPrefix": "https://api.vtb.wiki/q2w"
+    "CJId": "xiehui",
+    "CJUrlPrefix": "http://bot.wudifeixue.com:5200/q2w"
 };
 var lastTime = '0';
 (function() {
